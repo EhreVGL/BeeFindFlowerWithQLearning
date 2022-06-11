@@ -12,9 +12,8 @@ Uygulama içerisinde 10x10'luk bir alana manual yerleştirilen bir GameObject'ye
 
 0. [Herkese Selamlar](#herkese-selamlar)
 1. [Uygulama Hakkında](#uygulama-hakkında)
-2. [Yüklenmesi Gereken Kütüphaneler](#yuklenmesi-gereken-kutuphaneler)
-3. [Eklenecek veya Düzenlenecek Kısımlar](#eklenecek-veya-duzenlenecek-kısımlar)
-4. [Youtube Linki](#youtube-linki)
+2. [Eklenecek veya Düzenlenecek Kısımlar](#eklenecek-veya-duzenlenecek-kısımlar)
+3. [Youtube Linki](#youtube-linki)
 
 ## Uygulama Hakkında
 
